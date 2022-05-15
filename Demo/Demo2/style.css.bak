@@ -1,0 +1,553 @@
+.brief__text
+{
+  color: rgb(0, 119, 255);
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+.two-columns__brief
+{
+  width: 175px;
+  border: 3px solid yellow;
+}
+
+.paragraph__2
+{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.two-columns__main-text
+{
+  border: 3px solid green;
+  width: 80%;
+  min-width: 784px;
+}
+
+.two-columns__paragraph
+{
+  line-height: 34px;
+  font-size: 24px;
+}
+
+.description__two-columns
+{
+  width: 80%;
+  border: 3px solid red;
+  align-self: center;
+  justify-self: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.description
+{
+  margin-top: 100px;
+  border: 3px solid blue;
+  display: flex;
+  justify-content: center;
+}
+
+.section-subtitle
+{
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+}
+
+.section-title
+{
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.table__cell
+{
+  margin-top: 60px;
+  width: 250px;
+  border: 3px solid gray;
+}
+.table__heading
+{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text
+{
+  line-height: 1.2;
+  font-size: 18px;
+}
+
+.table
+{
+  width: 1100px;
+  display: flex;
+  margin: auto;
+  border: 3px solid blue;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.digits
+{
+  margin-top: 100px;
+  padding-bottom: 100px;
+  border: 3px solid red;
+}
+
+.column-link__link
+{
+  line-height: 18px;
+  font-size: 18px;
+}
+
+.column-link__logo-pace
+{
+  width: 16px;
+  height: 16px;
+}
+
+.footer__column-links
+{
+  display: flex;
+  margin-bottom: 10px;
+  color: aliceblue;
+  line-height: 18px;
+  font-size: 18px;
+}
+
+.footer__column__content_copyright
+{
+  border: 3px solid blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer__column__content_info
+{
+  border: 3px solid yellow;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column__content_social
+{
+  border: 3px solid green;
+  
+}
+
+.footer__column-heading
+{
+  margin-bottom: 20px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.footer__columns
+{
+  width: 90%;
+  flex-basis: 711px;
+  margin: auto;
+  position: relative;
+  display: flex;
+  border: 3px solid red;
+  justify-content: space-between;
+}
+
+.footer__author
+{
+  color: aliceblue;
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.footer
+{
+  background-color: rgb(1, 1, 12);
+  /*background-color: gray;*/
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.main-illustration
+{
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+}
+
+.header__square-pic
+{
+  height: 568px;
+  width: 568px;
+  position: absolute;
+  background-color: rgb(0, 119, 255);
+  top: 64px;
+  right: 0px;
+  z-index: 0;
+  animation: rotation 20s ease infinite;
+}
+
+.header__subtitle__link
+{
+  color: blue;
+}
+
+.header__subtitle__text
+{
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.header__subtitle
+{
+  position: absolute;
+  width: 388px;
+  left: 64px;
+  bottom: 30px;
+  border: 3px solid red;
+  z-index: 5;
+}
+
+.header__title__text
+{
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bolder;
+}
+
+.header__title
+{
+  position: absolute;
+  left: 5px;
+  border: 3px solid red;
+  width: 730px;
+  margin-left: 63px;
+  align-self: center;
+}
+
+.header 
+{
+  border: 3px solid black;
+  position: relative;
+  display: flex;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  overflow: hidden;
+  
+  /* выше установили ограничения для секции */
+}
+
+.section-subtitle__theme_dark
+{
+  color: aliceblue;
+}
+
+
+.section-title__theme_dark
+{
+  color: aliceblue;
+}
+
+.kaufman__cell
+{
+  width: 200px;
+  z-index: 2;
+}
+
+
+.kaufman
+{
+  padding-top: 90px;
+  background-color: rgb(1, 1, 12);
+  position: relative;
+  z-index: 3;
+  overflow: hidden;
+}
+
+.table__theme_dark
+{
+  color: aliceblue;
+}
+
+.resources__link
+{
+  width: 270px;
+  height: 38px;
+}
+
+.resources__logo-zone
+{
+  margin: auto;
+  width: 1100px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 217px;
+}
+
+.resources__section-subtitle
+{
+  margin-bottom: 80px;
+}
+
+.resources
+{
+  margin-top: 100px;
+}
+
+.cards__description
+{
+  text-align: center;
+  line-height: 23px;
+  font-size: 18px;
+}
+
+.cards__image
+{
+  width: 120px;
+  height: 120px;
+  margin-left: 40px;
+  margin-bottom: 43px;
+}
+
+.cards__item
+{
+  border: 3px dashed green;
+  width: 200px;
+  margin-right: 100px;
+  margin-top: 60px;
+}
+
+.cards__title
+{
+  margin-bottom: 16px;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.techniques__cards
+{
+  margin: auto;
+  border: 3px solid yellow;
+  display: flex;
+  width: 920px;
+  flex-wrap: wrap;
+}
+
+.techniques__section-subtitle
+{
+  line-height: 34px;
+  font-size: 24px;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.techniques__section-title
+{
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 60px;
+}
+
+.techniques
+{
+  margin: auto;
+  margin-top: 100px;
+  width: 80%;
+  border: 3px solid red;
+}
+
+@keyframes rotation
+{
+	from 
+	{
+		transform: rotate(0deg);
+	}
+	to
+	{
+		transform: rotate(360deg);
+	}
+}
+
+body
+{
+	background-color: grey;
+}
+
+.demo
+{
+	border: 3px solid yellow;
+}
+
+.square-pic
+{
+	margin: auto;
+	width: 568px;
+	height: 568px;
+	background-color: #000;
+	animation: rotation 20s ease infinite;
+	overflow: hidden;
+}
+
+.feynman
+{
+	margin-top: 100px;
+	border: 3px solid red;
+	position: relative;
+	height: 890px;
+	background-image: url(../feynman.png);
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-size: 867px 637px;
+}
+
+.feynman__title
+{
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+	color: black;
+	width: 648px;
+	line-height: 1.15;
+	font-size: 120px;
+	font-weight: bold;
+}
+
+.feynman__subtitle
+{
+	margin-top: 70px;
+	text-align: center;
+	color: black;
+	line-height: 51px;
+	font-size: 36px;
+}
+
+.feynman__link
+{
+	color: white;
+	position: absolute;
+	right: 48px;
+	top: 50%;
+	line-height: 51px;
+	font-size: 36px;
+}
+
+.khan
+{
+	width: 80%;
+	margin: auto;
+	margin-top: 100px;
+	border: 3px solid green;
+}
+
+.khan__author
+{
+	line-height: 42px;
+	font-size: 30px;
+}
+
+.khan__title
+{
+	margin-bottom: 50px;
+	line-height: 1.15;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.khan__quote
+{
+	width: 790px;
+	margin-bottom: 36px;
+	line-height: 34px;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.khan__quote-author
+{
+	line-height: 1.15;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.khan__quote-author-subline
+{
+	margin-bottom: 68px;
+	line-height: 1.15;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.buy-link
+{
+	line-height: 42px;
+	font-size: 30px;
+}
+
+.khan__book-container
+{
+	display: flex;
+	border: 2px dotted aqua;
+}
+
+.book-pic
+{
+	width: 620px;
+	height: 608px;
+	border: 3px solid purple;
+	margin-right: 48px;
+}
+
+.kaufman-v_0_2
+{
+	position: relative;
+	height: 1400px;
+	background-color: black;
+	border: 3px solid red;
+}
+
+.kaufman__triangle
+{
+	/*border: 3px solid white;*/
+	position: absolute;
+	width: 877px;
+	height: 877px;
+	right: -210px;
+	top: -35px;
+	z-index: 1;
+	animation: rotation 20s ease infinite;
+	
+}
+
+.kaufman__table
+{
+	z-index: 2;
+}
+
+.link
+{
+	text-decoration: none;
+	color: blue;
+}
+
+.link:hover
+{
+	text-decoration: underline;
+	color: yellow;
+}

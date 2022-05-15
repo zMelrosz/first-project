@@ -1,0 +1,9 @@
+.main-illustration
+{
+  position: absolute;
+  width: 765px;
+  height: 608px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 1;
+}

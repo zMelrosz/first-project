@@ -1,0 +1,28 @@
+.section-title
+{
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.section-subtitle
+{
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+}
+
+.link
+{
+    text-decoration: none;
+    color: rgb(44, 44, 255);
+}
+
+.link:hover
+{
+    text-decoration: underline;
+    color: rgb(120, 107, 190);
+
+}

@@ -1,0 +1,8 @@
+.footer__column-links
+{
+  display: flex;
+  margin-bottom: 10px;
+  color: aliceblue;
+  line-height: 18px;
+  font-size: 18px;
+}
