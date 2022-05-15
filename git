@@ -1,0 +1,30 @@
+[33mcommit 114f135ff0663fd15d71a289acbc430c261581c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: df28eb4 2a1a323
+Author: igor.khomenko <zmelrosz@yandex.ru>
+Date:   Sun May 15 15:15:29 2022 +0300
+
+    Merge branch 'master' of github.com:zMelrosz/first-project
+
+[33mcommit 2a1a3235cbc64fadaea97532814d1147ee20a276[m
+Author: zMelrosz <zmelrosz@yandex.ru>
+Date:   Sun May 15 15:10:20 2022 +0300
+
+    Create README.md
+
+[33mcommit df28eb489d903d9136f5c5cb8fe471c7222f97a4[m
+Author: igor.khomenko <zmelrosz@yandex.ru>
+Date:   Sun May 15 15:04:53 2022 +0300
+
+    2commit
+
+[33mcommit 6a4e590096053b062b469ff4286eae288f148d58[m
+Author: IkrM <zmelrosz@yandex.ru>
+Date:   Tue May 10 03:01:19 2022 +0300
+
+    fpv_0.2
+
+[33mcommit fc32720dbf345e04b067d7d9aad18703ff7ed773[m
+Author: IkrM <zmelrosz@yandex.ru>
+Date:   Tue May 10 02:54:45 2022 +0300
+
+    мой первый коммит
