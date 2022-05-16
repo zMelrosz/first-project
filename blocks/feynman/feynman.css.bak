@@ -2,7 +2,6 @@
 {
 	margin-top: 100px;
 	height: 890px;
-	background-color: #f2f2f2;
 	background-image: url(../feynman/feynman.png);
     background-repeat: no-repeat;
 	background-position: bottom left;

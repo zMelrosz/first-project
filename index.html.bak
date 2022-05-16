@@ -98,7 +98,7 @@
 
       <h1 class="feynman__title ">Метод Фейнмана</h1>
       <h2 class="feynman__subtitle ">Выучить и не забыть</h2>
-      <h3><a class="feynman__link link" href="#">Подробнее --></a></h3>
+      <h3><a class="feynman__link" href="#">Подробнее --></a></h3>
     </section>
 
     <section class="digits">

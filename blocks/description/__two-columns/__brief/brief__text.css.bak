@@ -1,6 +1,6 @@
 .brief__text
 {
-  color: #2f80ed;
+  color: rgb(0, 119, 255);
   line-height: 1.2;
   font-size: 18px;
 }

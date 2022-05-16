@@ -5,5 +5,5 @@
 	top: 50%;
 	line-height: 51px;
 	font-size: 36px;
-	color: #2f80ed;
+	color: #000;
 }
